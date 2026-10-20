@@ -1,4 +1,7 @@
-[![Codewars](https://vercel.app)](https://codewars.com)
+<a href="https://codewars.com">
+  <img src="https://r2v.ch" alt="Codewars Stats" />
+</a>
+
 
 <!--
 **Alexandr31rus/Alexandr31rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
