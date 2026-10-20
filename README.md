@@ -1,4 +1,4 @@
-<a href="https://codewars.com">
+<a href="[https://codewars.com](https://www.codewars.com/users/Alexandr31rus/badges/large)">
   <img src="https://r2v.ch" alt="Codewars Stats" />
 </a>
 
