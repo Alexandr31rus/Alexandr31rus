@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Codewars](https://vercel.app)](https://codewars.com)
 
 <!--
 **Alexandr31rus/Alexandr31rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
